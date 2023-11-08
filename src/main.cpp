@@ -1,4 +1,5 @@
 #include <Arduino.h>
+#include "state-machine.hpp"
 
 // Define the tactile switch pin and motor control pins
 const int switch_pin = 33;            // Example GPIO pin for the switch

@@ -1,0 +1,3 @@
+[submodule "lib/omg-seminar"]
+	path = lib/omg-seminar
+	url = https://github.com/cwahn/omg-seminar.git
